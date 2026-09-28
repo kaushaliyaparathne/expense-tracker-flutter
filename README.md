@@ -198,3 +198,14 @@ build/app/outputs/flutter-apk/app-release.apk
 ```
 
 The APK can be downloaded from the GitHub Releases section if uploaded there.
+
+## AI Tools Used
+
+ChatGPT was used to:
+
+- Understand Firebase integration concepts
+- Help debug Flutter errors
+- Improve code structure
+- Review validation and UI implementation
+
+All generated code was reviewed, modified, tested, and understood before submission.
